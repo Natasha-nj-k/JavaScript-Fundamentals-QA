@@ -1,0 +1,1 @@
+//Question23: What does the addEventListener method do? Write an example.

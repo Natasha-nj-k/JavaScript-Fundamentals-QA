@@ -1,0 +1,1 @@
+//Question7: How can you write comments in JavaScript?

@@ -1,0 +1,1 @@
+//Question24: How do you change the text content of an HTML element using JavaScri

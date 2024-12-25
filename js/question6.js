@@ -1,0 +1,1 @@
+//Question6: What are data types in JavaScript? List at least three examples.

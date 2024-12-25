@@ -1,0 +1,1 @@
+//Question15: Write a JavaScript expression that evaluates whether a number is both greater than 10 and less than 20.

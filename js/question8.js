@@ -1,0 +1,1 @@
+//Question8: What is the purpose of the typeof operator in JavaScript?

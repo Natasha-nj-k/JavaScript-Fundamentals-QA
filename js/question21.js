@@ -1,0 +1,1 @@
+//Question21: What is the DOM (Document Object Model) in JavaScript?

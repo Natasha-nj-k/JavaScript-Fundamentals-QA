@@ -1,0 +1,1 @@
+//Question19: Explain the concept of scope in JavaScript.

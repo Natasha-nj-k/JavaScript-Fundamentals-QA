@@ -1,0 +1,1 @@
+//Question9: Explain what NaN means in JavaScript.

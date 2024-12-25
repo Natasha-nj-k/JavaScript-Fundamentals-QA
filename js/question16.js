@@ -1,0 +1,1 @@
+//Question16: What is a function in JavaScript, and how do you define one?

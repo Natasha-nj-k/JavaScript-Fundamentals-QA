@@ -1,0 +1,1 @@
+//Question22: How can you select an element in the DOM using JavaScript? (Give an example.)
