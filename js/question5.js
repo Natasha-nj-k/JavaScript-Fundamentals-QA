@@ -3,3 +3,5 @@
    // x = 10; 
    // console.log(x);
 
+// Output is 10
+// First it was assigned 5 then later changed to 10.
